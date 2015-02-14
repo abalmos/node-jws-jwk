@@ -27,7 +27,7 @@
   "homepage": "https://github.com/OADA/node-jws-jwk",
   "dependencies": {
     "jsrsasign": "0.0.3",
-    "jws": "~2.0.0",
+    "jws": "~1.0.1",
     "object-assign": "^1.0.0",
     "rsa-pem-from-mod-exp": "^0.8.4"
   }
